@@ -5,8 +5,8 @@
 %global crate vec_map
 
 Name:           rust-%{crate}
-Version:        0.8.1
-Release:        10%{?dist}
+Version:        0.8.2
+Release:        1%{?dist}
 Summary:        Simple map based on a vector for small integer keys
 
 # Upstream license specification: MIT/Apache-2.0
